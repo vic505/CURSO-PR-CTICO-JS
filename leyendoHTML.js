@@ -8,6 +8,6 @@ button.addEventListener('click',experimento);
 
 function experimento(){
 const sumaInputs = in1.value+in2.value;
-result.innerText="Resultado:  "+sumaInputs;
+result.innerText="RESULTADO:  "+sumaInputs;
 }
 
